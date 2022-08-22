@@ -13,9 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harishshalin26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harishshalin26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harish shalin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish shalin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harish-shalin-a69792239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish shalin" height="30" width="40" /></a>
 <a href="https://instagram.com/weekendvisit_wv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weekendvisit_wv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/weekend visit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weekend visit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1tt5_eeKhL4mrjfADiDLtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weekend visit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
